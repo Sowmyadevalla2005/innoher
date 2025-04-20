@@ -17,7 +17,7 @@ The application follows these steps to provide risk assessments:
 * **Report Generation**: Creates comprehensive markdown reports highlighting top climate risks
 
 ## Project Structure
-\`\`\`
+
 innoher/
 ├── main.py               # Main application entry point
 ├── data_collector.py     # Handles data collection from APIs
@@ -31,8 +31,8 @@ innoher/
 │   └── processed_news.csv
 └── reports/              # Generated risk reports
     └── climate_risk_report.md
-\`\`\`
 
+    
 ## Models and APIs Used
 The **InnoHer Climate Risk Analysis Tool** utilizes the following models and APIs:
 1. **Hugging Face Transformers**:
