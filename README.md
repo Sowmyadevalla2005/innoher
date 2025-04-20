@@ -1,7 +1,7 @@
-# InnoHer Climate Risk Analysis Tool
+# Climate Risk Analysis Tool
 
 ## Introduction
-The **InnoHer Climate Risk Analysis Tool** is an AI-powered climate risk analysis system specifically designed for the insurance industry. It collects climate data and news, processes the information using natural language processing, and generates risk assessment reports to help insurance companies better understand and prepare for climate-related risks. The system provides data-driven insights about climate-related risks that may impact insurance policies and claims.
+The **Climate Risk Analysis Tool** is an AI-powered climate risk analysis system specifically designed for the insurance industry. It collects climate data and news, processes the information using natural language processing, and generates risk assessment reports to help insurance companies better understand and prepare for climate-related risks. The system provides data-driven insights about climate-related risks that may impact insurance policies and claims.
 
 ## How It Works
 The application follows these steps to provide risk assessments:
