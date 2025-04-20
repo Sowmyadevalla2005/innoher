@@ -102,4 +102,4 @@ python main.py --report
 MIT License
 
 ## Contact
-Sowmya - sowmyad@gmail.com
+Sowmya - sowmyadevalla49@gmail.com
